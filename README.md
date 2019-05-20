@@ -34,3 +34,6 @@ This initiative will:
 4. Reduce contact center costs.
 5. Establish consistent customer experience across the agency through the implementation of standardized operating procedures and Key Performance Indicators (KPIs).
 6. Enable HUD to measure customer satisfaction levels to facilitate continuous improvement.
+
+## Other RFIs
+Please see the [main repository](https://github.com/GSA/coe-hud-acquisitions/) for information on all procurement related information to the HUD and CoE engagement.
