@@ -1,5 +1,11 @@
 [CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [CoE and HUD](https://github.com/GSA/coe-hud-acquisitions) > HUDCentral
 
+<h1><img src="https://coe.gsa.gov/img/coe-logomark.svg" width="40px" align="top" alt="The Centers of Excellence Logo"> Centers of Excellence / Acquisitions</h1>
+
+#### We partner with agencies to accelerate IT modernization, improve public experience, and increase operational efficiency. [Learn more »](https://coe.gsa.gov/about/)
+
+---
+
 *Note: This is a Request for Information (RFI) only. This is not a Request for Quote (RFQ), Request for Proposal (RFP), or any other type of request for an offer. This is a market research function and does not represent a commitment by the Government to issue a solicitation or award a contract.*
 
 # Contact Center: HUDCentral Contact Center
