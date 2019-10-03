@@ -6,15 +6,15 @@
 
 ---
 
-*Note: This is a Request for Information (RFI) only. This is not a Request for Quote (RFQ), Request for Proposal (RFP), or any other type of request for an offer. This is a market research function and does not represent a commitment by the Government to issue a solicitation or award a contract.*
-
 # Contact Center: HUDCentral Contact Center
 
-## How to respond to this RFI
+## How to respond to this RFQ
 
-Anyone interested in responding to this RFI with feedback on our [Draft RFQ](Draft-RFQ.pdf) is encouraged to complete [this form](https://forms.gle/PJJ4cqxHYFThnYMi9). Please remember to review any artifacts in the repository as well - we'd like your feedback on everything!
+This RFQ was posted to eBuy under RFQ1399265. Should you have any questions or feedback related to this Request for Quote, please fill out this Q&A form no later than October 11, 2019 at noon, eastern.
 
-**Responses are due no later than May 31, 2019 at noon, eastern.**
+Anyone interested in responding to this RFQ is encouraged to review the instructions referenced in the timetable that immediately follows the cover page. Please remember to review any artifacts in the repository as well.
+
+**Responses for the RFQ are due no later than October 25, 2019 at noon, eastern.**
 
 We cannot commit to considering anything sent to us after the deadline above or sent via any other medium.
 
@@ -43,5 +43,5 @@ This initiative will:
 5. Establish consistent customer experience across the agency through the implementation of standardized operating procedures and Key Performance Indicators (KPIs).
 6. Enable HUD to measure customer satisfaction levels to facilitate continuous improvement.
 
-## Other RFIs
+## Other HUD-realated work
 Please see the [main repository](https://github.com/GSA/coe-hud-acquisitions/) for information on all procurement related information to the HUD and CoE engagement.
