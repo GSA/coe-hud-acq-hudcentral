@@ -14,7 +14,7 @@ This RFQ was posted to eBuy under RFQ1399265. Should you have any questions or f
 
 Anyone interested in responding to this RFQ is encouraged to review the instructions referenced in the timetable that immediately follows the cover page. Please remember to review any artifacts in the repository as well.
 
-**Responses for the RFQ are due no later than October 25, 2019 at noon, eastern.**
+**Responses for the RFQ are due no later than October 31, 2019 at noon, eastern.**
 
 We cannot commit to considering anything sent to us after the deadline above or sent via any other medium.
 
