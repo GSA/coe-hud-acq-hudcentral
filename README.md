@@ -10,7 +10,7 @@
 
 ## How to respond to this RFQ
 
-This RFQ was posted to eBuy under RFQ1399265. Should you have any questions or feedback related to this [Request for Quote](https://github.com/GSA/coe-hud-acq-hudcentral/blob/master/RFQ-HUDCentral-Contact-Center.pdf), please fill out this [Q&A form](https://docs.google.com/forms/d/e/1FAIpQLSeG0fZmvrmzsyFEFAw0VtFhY_HyH3_0D9Y1bgObBTgm9IgALQ/viewform?usp=sf_link) no later than _October 11, 2019 at noon, eastern._
+This RFQ was posted to eBuy under RFQ1399265. Should you have any questions or feedback related to this [Request for Quote](https://github.com/GSA/coe-hud-acq-hudcentral/blob/master/Amendment-0001-RFQ-HUDCentral-Contact-Center.pdf), please fill out this [Q&A form](https://docs.google.com/forms/d/e/1FAIpQLSeG0fZmvrmzsyFEFAw0VtFhY_HyH3_0D9Y1bgObBTgm9IgALQ/viewform?usp=sf_link) no later than _October 11, 2019 at noon, eastern._
 
 Anyone interested in responding to this RFQ is encouraged to review the instructions referenced in the timetable that immediately follows the cover page. Please remember to review any artifacts in the repository as well.
 
